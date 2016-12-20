@@ -1,5 +1,3 @@
-### Removes Visual Composer CSS3 Animations from mobile browsers
+#Visual Composer Remove CSS3 Animations
 
-#### Plugin Name: Visual Composer remove CSS3 animations
-
-Description: Removes animations for iOS (Safari / Chrome)
+This Plugin Removes Visual Composer CSS3 Animations from mobile browsers
