@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Visual Composer remove CSS3 animations
-Plugin URI:
+Plugin URI: https://nerdbrand.me
 Description: Removes animations for iOS (Safari / Chrome)
 Version: 2014.10.28
 Author: Jason Davis
-Author URI: http://profiles.wordpress.org/batgeek/
+Author URI: https://nerdbrand.me
 License: GPL2
 */
  
